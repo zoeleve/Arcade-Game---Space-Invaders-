@@ -4,3 +4,5 @@
 βιβλιοθήκη Simple Graphics Library (SGG) που έχει φτιαχτεί για το μάθημα.
 
 ![Space Invaders](Space.jpg "Space_Start")
+
+![Space_Invaders2](requirements/diagrams/usecase.jpg "Διάγραμμα περιπτώσεων χρήσης")
