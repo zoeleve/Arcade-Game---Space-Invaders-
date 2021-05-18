@@ -5,4 +5,4 @@
 
 ![Space Invaders](Space.png "Space_Start")
 
-![Space_Invaders2](requirements/diagrams/usecase.jpg "Διάγραμμα περιπτώσεων χρήσης")
+![Space_Invaders2](arcade.png "Space_during_gameplay")
