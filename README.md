@@ -1,7 +1,7 @@
 # Arcade Game-Space Invaders
 
-Κλασικά παιχνίδια arcade που έφεραν την επανάσταση στην ηλεκτρονική ψυχαγωγία πριν από αρκετές δεκαετίες, βασιζόμενοι στη 
-βιβλιοθήκη Simple Graphics Library (SGG) που έχει φτιαχτεί για το μάθημα.
+Classic arcade games that revolutionized electronic entertainment several decades ago, based on the course-built Simple Graphics Library (SGG).
+
 
 ![Space Invaders](Space.png "Space_Start")
 
